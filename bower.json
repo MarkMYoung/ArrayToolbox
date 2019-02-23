@@ -1,0 +1,27 @@
+{
+	"name":"arraytoolbox",
+	"description":"Collection of frequently useful array algorithms, mostly for use with `Array.prototype.filter` and `Array.prototype.reduce`.",
+
+	"authors":["Mark M. Young"],
+	"dependencies":{},
+	"ignore":
+	[
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"_notes"
+	],
+	"keywords":
+	[
+		"array manipulation"
+	],
+	"license":"GPL-3.0",
+	"main":
+	[
+		"index.js"
+	],
+	"moduleType":
+	[
+		"globals"
+	]
+}
